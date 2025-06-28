@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\WepApiDemo\\wwwroot\\HtmlConsumer.html",
+      "PackagePath": "staticwebassets\\HtmlConsumer.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WepApiDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WepApiDemo.props",
+      "PackagePath": "build\\WepApiDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WepApiDemo.props",
+      "PackagePath": "buildMultiTargeting\\WepApiDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WepApiDemo.props",
+      "PackagePath": "buildTransitive\\WepApiDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

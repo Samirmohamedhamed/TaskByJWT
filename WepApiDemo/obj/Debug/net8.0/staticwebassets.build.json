@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "anwvR9C4bQUzJoJLVhVkUfnZJ6DM088leJMJWzY+fjw=",
+  "Source": "WepApiDemo",
+  "BasePath": "_content/WepApiDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WepApiDemo\\wwwroot",
+      "Source": "WepApiDemo",
+      "ContentRoot": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\WepApiDemo\\wwwroot\\",
+      "BasePath": "_content/WepApiDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\WepApiDemo\\wwwroot\\HtmlConsumer.html",
+      "SourceId": "WepApiDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\WepApiDemo\\wwwroot\\",
+      "BasePath": "_content/WepApiDemo",
+      "RelativePath": "HtmlConsumer.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HtmlConsumer.html"
+    }
+  ]
+}

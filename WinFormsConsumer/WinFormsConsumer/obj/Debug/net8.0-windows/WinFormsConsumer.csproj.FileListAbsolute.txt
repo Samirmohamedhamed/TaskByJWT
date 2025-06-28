@@ -1,0 +1,16 @@
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\bin\Debug\net8.0-windows\WinFormsConsumer.exe
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\bin\Debug\net8.0-windows\WinFormsConsumer.deps.json
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\bin\Debug\net8.0-windows\WinFormsConsumer.runtimeconfig.json
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\bin\Debug\net8.0-windows\WinFormsConsumer.dll
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\bin\Debug\net8.0-windows\WinFormsConsumer.pdb
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.Form1.resources
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.csproj.GenerateResource.cache
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.AssemblyInfoInputs.cache
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.AssemblyInfo.cs
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.csproj.CoreCompileInputs.cache
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.dll
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\refint\WinFormsConsumer.dll
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.pdb
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\WinFormsConsumer.genruntimeconfig.cache
+D:\c#\Eraa_Soft_Tasks\WepApiDemo\WinFormsConsumer\WinFormsConsumer\obj\Debug\net8.0-windows\ref\WinFormsConsumer.dll

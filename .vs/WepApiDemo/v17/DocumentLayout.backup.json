@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3522F6-C09B-40FB-B095-235750EBCC8C}|WepApiDemo\\WepApiDemo.csproj|d:\\c#\\eraa_soft_tasks\\wepapidemo\\wepapidemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3522F6-C09B-40FB-B095-235750EBCC8C}|WepApiDemo\\WepApiDemo.csproj|solutionrelative:wepapidemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3522F6-C09B-40FB-B095-235750EBCC8C}|WepApiDemo\\WepApiDemo.csproj|d:\\c#\\eraa_soft_tasks\\wepapidemo\\wepapidemo\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3522F6-C09B-40FB-B095-235750EBCC8C}|WepApiDemo\\WepApiDemo.csproj|solutionrelative:wepapidemo\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\WepApiDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WepApiDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\WepApiDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WepApiDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:15:09.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\WepApiDemo\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "WepApiDemo\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\c#\\Eraa_Soft_Tasks\\WepApiDemo\\WepApiDemo\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "WepApiDemo\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:32:42.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
